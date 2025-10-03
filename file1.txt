@@ -1,0 +1,2 @@
+This is the first project file.
+It represents the core structure of Project OMG.
